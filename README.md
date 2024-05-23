@@ -2,7 +2,7 @@
 
 This project demonstrates how to create a USB MIDI interface using an Arduino Pro Micro. The interface allows MIDI communication between USB and Serial MIDI devices.
 
-![Arduino MIDI USB Interface](https://soften.pl/projects/arduino-midi-usb.jpg)
+![Arduino MIDI USB Interface](https://raw.githubusercontent.com/kaligari/Arduino-Micro-MIDI-USB-Interface/main/arduino-midi-usb.jpg)
 
 ## Features
 
