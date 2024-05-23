@@ -11,7 +11,7 @@ This project demonstrates how to create a USB MIDI interface using an Arduino Pr
 
 ## How to Use
 
-[Short instructional video](https://www.youtube.com/shorts/t-_kSEKBRnA)
+[Short demo video](https://www.youtube.com/shorts/t-_kSEKBRnA)
 
 ## Schematic
 
